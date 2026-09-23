@@ -1,1 +1,1 @@
-Finished HW 1 all information in repository
+https://jwade228.github.io/comp484-hw1/
